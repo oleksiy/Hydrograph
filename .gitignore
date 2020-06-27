@@ -4,7 +4,9 @@
 
 # Excluding intellij's top level folder
 .idea
-
+.iml
+hydrograph.ui/hydrograph.ui.*/*.iml
+hydrograph.ui/*.iml
 # User-specific stuff:
 .idea/workspace.xml
 .idea/tasks.xml
